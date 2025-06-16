@@ -52,7 +52,7 @@ If you'd like to contribute to this open initiative, feel free to submit a PR or
 ## 🔗 Connect with Author
 
 - [LinkedIn](https://www.linkedin.com/in/brianroyee)
-- [Instagram](https://instagram.com/brianroyee)
+- [Instagram](https://instagram.com/brianroymathew)
 - [GitHub](https://github.com/brianroyee)
 
 ---
