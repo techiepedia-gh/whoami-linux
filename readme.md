@@ -1,6 +1,6 @@
-# 🐧 Linux Mastery: From Zero to Pro
+# whoami-linux
 
-Welcome to **Linux Mastery**, a curated repository designed to help you grow from a beginner to an advanced Linux user — all in one place.
+Welcome to a curated repository designed to help you grow from a beginner to an advanced Linux user — all in one place.
 
 This is not just another cheat sheet.
 
