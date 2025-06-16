@@ -1,39 +1,46 @@
-# You Guys Are Dumb (But It’s Not Your Fault)
+# Preface: You're Probably Doing Linux Wrong
 
-Hey there,  
-Yeah… you.
+Let’s be honest.
+
+Most people using Linux barely understand what they're doing.
+- They memorize commands without knowing why they work.
+- They install packages like magic spells.
+- They panic when the terminal shows an error.
+
+**If that's you — it's fine. You're here to change that.**
+
+This `repository` is not just about giving you commands to copy-paste. It’s about:
+- Understanding how Linux works under the hood
+- Building habits that make you confident in a real environment
+- Teaching you how to *think* in Linux, not just use it
+
+You won’t be treated like a child here. But you also won’t be expected to know everything.
+
+This is structured to take you from zero to functional — in the right order — without the fluff.
+
+Each topic is followed by a **Checklist**. If you can tick everything in the list without guessing, you’re ready to move on.
+
+---
+
+## Checklist Format (Follow this for every topic)
+
+After completing, ask yourself:
+
+- [ ] Can I explain what a Linux distribution is?
+- [ ] Do I know the difference between Linux and GNU/Linux?
+- [ ] Do I understand what a shell is and why we use it?
+- [ ] Can I navigate directories using basic terminal commands?
+- [ ] Am I Linux God? (no, you are not!)
+
+If you can’t confidently check them off — go back. Re-read. Practice.
+
+---
+
+No shortcuts.  
+No sugarcoating.  
+Just proper Linux skills.
+
+Let’s begin.
 
 
-Scrolling through GitHub thinking you know Linux because you typed `ls` once.  
-Or worse — still copy-pasting `sudo apt install` without the faintest clue what it *actually* does.
-
-**Deffo dumb!**
-
-But hey — we all started that way.  
-No one’s born knowing what the hell a kernel is or why `chmod 755` sounds like some secret alien code.
-
-You’ve been betrayed by:
-- Windows, OS that hides the truth
-- And 97 “Linux for Beginners” tutorials that assume you’re already a sysadmin
-
-So this repo?  
-*It’s here to fix that!*
-
-It won’t hold your hand, but it’ll slap some sense into you — lovingly.
-
-We’re starting from **GROUND ZERO**.  
-(No assumptions. No BS.)  
-Just straight-up Linux knowledge, the way it was meant to be learned:  
-⚔️ painfully, ✨ but with memes.
-
-By the end of this journey:
-- You’ll speak CLI fluently.
-- Laugh at people who fear the CLI & Linux (okay, not really… but maybe a little)
-
-So buckle up & Stop being **DUMB**.  
-And let’s learn this thing properly — one shell command at a time.
-Let the madness begin!
-
-
-
-— Brian, Techiepedia  
+- Brian, techiepedia
