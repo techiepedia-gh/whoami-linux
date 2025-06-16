@@ -13,35 +13,6 @@ Most people say "Linux" when they actually mean **GNU/Linux**, which is the kern
 
 ---
 
-## Linux System Structure (Flowchart)
-
-Here’s where the kernel fits in your system:
-
-┌──────────────────────┐
-│ User Applications │ ← You interact with this (editors, browsers, terminals)
-└────────▲─────────────┘
-│
-│
-▼
-┌──────────────────────┐
-│ Shell │ ← CLI tools like bash/zsh/Fish etc.
-└────────▲─────────────┘
-│
-▼
-┌──────────────────────┐
-│ Kernel │ ← Controls CPU, memory, I/O, devices
-└────────▲─────────────┘
-│
-▼
-┌──────────────────────┐
-│ Hardware │ ← Your actual machine
-└──────────────────────┘
-
-
-> The kernel is the bridge between **software** and **hardware**.
-
----
-
 ## Why Learn Linux?
 
 Here’s why Linux matters:
@@ -49,7 +20,7 @@ If you're serious about tech, *Linux is non-negotiable*.
 
 ---
 
-## 💻 GUI vs CLI
+## GUI vs CLI
 
 Linux gives you both:
 
