@@ -21,7 +21,7 @@ Here’s where the kernel fits in your system:
 │ User Applications │ ← You interact with this (editors, browsers, terminals)
 └────────▲─────────────┘
 │
-│ System Calls / APIs
+│
 ▼
 ┌──────────────────────┐
 │ Shell │ ← CLI tools like bash/zsh/Fish etc.
