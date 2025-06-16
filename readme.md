@@ -1,6 +1,6 @@
 # whoami-linux
 
-Welcome to a curated repository designed to help you grow from a beginner to an advanced Linux user — all in one place.
+Welcome to a curated repository designed to help you grow from a beginner >>>>>>> advanced Linux user — all in one place.
 
 This is not just another cheat sheet.
 
