@@ -55,16 +55,6 @@ If you'd like to contribute to this open initiative, feel free to submit a PR or
 - [Instagram](https://instagram.com/brianroymathew)
 - [GitHub](https://github.com/brianroyee)
 
----
-
-## 🚧 Project Status
-
-> 📅 Started: June 2025  
-> 🏗️ Currently building out topics one by one.  
-> 💬 Join the journey — star, fork, and follow!
-
----
-
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE). Use it, share it, and grow with it.
