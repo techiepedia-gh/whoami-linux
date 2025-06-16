@@ -43,4 +43,4 @@ Just proper Linux skills.
 Let’s begin.
 
 
-- Brian, techiepedia
+~ Brian, techiepedia
