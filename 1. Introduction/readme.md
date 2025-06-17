@@ -38,7 +38,7 @@ Here's a quick comparison:
 | Distro        | Based On | Use Case                          |
 |---------------|----------|-----------------------------------|
 | Ubuntu        | Debian   | General desktop/server            |
-| Fedora        | Red Hat  | Workstations, development         |
+| Fedora        | -        | Workstations, development         |
 | Arch Linux    | -        | DIY, bleeding-edge, minimal       |
 | Kali Linux    | Debian   | Security & ethical hacking        |
 | Alpine Linux  | -        | Containers, lightweight systems   |
