@@ -40,6 +40,7 @@ Examples:
 - Security & Isolation:   Permissions, namespaces, cgroups
 
 ## Linux OS Structure
+```bash
 +---------------------------+
 |     Applications (User)   |
 +---------------------------+
