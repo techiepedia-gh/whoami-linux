@@ -2,7 +2,7 @@
 
 Let’s be honest.
 
-Most people using Linux barely understand what they're doing.
+## Most people using Linux barely understand what they're doing.
 - They memorize commands without knowing why they work.
 - They install packages like magic spells.
 - They panic when the terminal shows an error.
